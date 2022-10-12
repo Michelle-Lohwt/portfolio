@@ -51,6 +51,7 @@
 
 .experience__about{
   list-style-position: inside;
+  padding-bottom: 1rem;
 }
 
 .experience__about > * + *{
