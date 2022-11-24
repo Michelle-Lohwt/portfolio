@@ -87,6 +87,7 @@
   height: 1.25rem;
   width: 1.25rem;
   color: var(--secondary-gray);
+  margin-right: 0.75rem;
 }
 
 .project__links > a:hover{
